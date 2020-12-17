@@ -1,4 +1,4 @@
 def add(x,y):
-  Pass  
+  return x + y  
 def multi(x,y):
-  return 0 
+  return  
